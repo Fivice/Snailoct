@@ -2,7 +2,7 @@
 
 
 
-[单例模式](Java/设计模式/创建型模式/单例模式.md)
+[单例模式](https://github.com/Snailoct/Snailoct/blob/master/Java/设计模式/创建型模式/单例模式.md)
 
 <!--
 **Snailoct/Snailoct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
